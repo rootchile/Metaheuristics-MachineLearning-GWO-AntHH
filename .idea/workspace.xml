@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5da97c26-89ba-4e5a-9b97-a23506fa7f1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MagisterMHML/Analisis/EXPERIMENTO2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagisterMHML/Analisis/EXPERIMENTO3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagisterMHML/Analisis/EXPERIMENTO_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagisterMHML/Analisis/EXPERIMENTO_5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="8a3a5e65-7bda-4411-ad73-8255f897b35f" />
+  <component name="ProjectId" id="1crQ5VYuQMNEWu5EzzRiGENX6KF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Discretization" />
+      <recent name="$PROJECT_DIR$/Problem/util" />
+      <recent name="$PROJECT_DIR$/Problem/Instances/SCP" />
+      <recent name="$PROJECT_DIR$/Problem/repair" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AntHH_GWO_SCP">
+    <configuration name="AntHH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MagisterMHML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AntHH.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AntHH_GWO_SCP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MagisterMHML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AntHH_GWO_SCP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoboGris_mscp41" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MagisterMHML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LoboGris_mscp41.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getResultados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MagisterMHML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analisis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analisis/getResultados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AntHH_GWO_SCP" />
+        <item itemvalue="Python.AntHH" />
+        <item itemvalue="Python.getResultados" />
+        <item itemvalue="Python.LoboGris_mscp41" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5da97c26-89ba-4e5a-9b97-a23506fa7f1c" name="Default Changelist" comment="" />
+      <created>1591284048119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591284048119</updated>
+      <workItem from="1591284049504" duration="6119000" />
+      <workItem from="1591322550267" duration="4218000" />
+      <workItem from="1591327272977" duration="731000" />
+      <workItem from="1591361887911" duration="6644000" />
+      <workItem from="1591380822565" duration="423000" />
+      <workItem from="1591408033375" duration="2663000" />
+      <workItem from="1591474656900" duration="4499000" />
+      <workItem from="1591492989847" duration="8653000" />
+      <workItem from="1591547000114" duration="930000" />
+      <workItem from="1591619712142" duration="2003000" />
+      <workItem from="1591653410413" duration="8291000" />
+      <workItem from="1591665119599" duration="434000" />
+      <workItem from="1591665571169" duration="9332000" />
+      <workItem from="1591703357949" duration="39000" />
+      <workItem from="1591705932491" duration="6104000" />
+      <workItem from="1591718450730" duration="465000" />
+      <workItem from="1591718939410" duration="1469000" />
+      <workItem from="1591721407999" duration="6000" />
+      <workItem from="1591739008075" duration="1063000" />
+      <workItem from="1591747690260" duration="333000" />
+      <workItem from="1591752692800" duration="20000" />
+      <workItem from="1591789447576" duration="450000" />
+      <workItem from="1591802023561" duration="545000" />
+      <workItem from="1591809265289" duration="204000" />
+      <workItem from="1591840538352" duration="297000" />
+      <workItem from="1591842306533" duration="197000" />
+      <workItem from="1591847054934" duration="82000" />
+      <workItem from="1591876747269" duration="464000" />
+      <workItem from="1591901844978" duration="934000" />
+      <workItem from="1591909080932" duration="1292000" />
+      <workItem from="1591927837684" duration="733000" />
+      <workItem from="1591968545615" duration="51000" />
+      <workItem from="1591989326595" duration="567000" />
+      <workItem from="1592054777191" duration="991000" />
+      <workItem from="1592066648007" duration="121000" />
+      <workItem from="1592068415882" duration="2022000" />
+      <workItem from="1592140091692" duration="1594000" />
+      <workItem from="1592608537526" duration="991000" />
+      <workItem from="1592950640190" duration="1000" />
+      <workItem from="1593317378558" duration="2000" />
+      <workItem from="1593561883268" duration="104000" />
+      <workItem from="1593631273748" duration="264000" />
+      <workItem from="1593632056348" duration="569000" />
+      <workItem from="1593642155266" duration="360000" />
+      <workItem from="1593966739013" duration="201000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1591284344993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591284344993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1591287420874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591287420874</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <created>1591289544637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591289544637</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LoboGris">
+      <created>1591289735347</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591289735347</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LoboGris - Parametros por cmd">
+      <created>1591296293158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591296293158</updated>
+    </task>
+    <task id="LOCAL-00006" summary="LoboGris - Parametros por cmd">
+      <created>1591297680488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591297680488</updated>
+    </task>
+    <task id="LOCAL-00007" summary="LoboGris - Parametros por cmd">
+      <created>1591297701376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591297701376</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LoboGris + Qlearning">
+      <created>1591324106306</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591324106306</updated>
+    </task>
+    <task id="LOCAL-00009" summary="LoboGris + Qlearning">
+      <created>1591324245210</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591324245210</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LoboGris + Qlearning">
+      <created>1591324268958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591324268958</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LoboGris + Qlearning">
+      <created>1591324808751</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591324808751</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LoboGris + Qlearning">
+      <created>1591325312486</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591325312486</updated>
+    </task>
+    <task id="LOCAL-00013" summary="LoboGris + Qlearning">
+      <created>1591325494112</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591325494112</updated>
+    </task>
+    <task id="LOCAL-00014" summary="LoboGris + Qlearning">
+      <created>1591325606040</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591325606040</updated>
+    </task>
+    <task id="LOCAL-00015" summary="LoboGris + Qlearning">
+      <created>1591325621176</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591325621176</updated>
+    </task>
+    <task id="LOCAL-00016" summary="LoboGris + Qlearning">
+      <created>1591326184108</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591326184108</updated>
+    </task>
+    <task id="LOCAL-00017" summary="LoboGris + Qlearning">
+      <created>1591326277083</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591326277083</updated>
+    </task>
+    <task id="LOCAL-00018" summary="LoboGris + Qlearning">
+      <created>1591326906298</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591326906298</updated>
+    </task>
+    <task id="LOCAL-00019" summary="LoboGris + Random Choice">
+      <created>1591327533875</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591327533875</updated>
+    </task>
+    <task id="LOCAL-00020" summary="LoboGris + Random Choice">
+      <created>1591369453939</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591369453939</updated>
+    </task>
+    <task id="LOCAL-00021" summary="# -*- coding: utf-8 -*-">
+      <created>1591370721458</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591370721458</updated>
+    </task>
+    <task id="LOCAL-00022" summary="# -*- coding: utf-8 -*-">
+      <created>1591379764272</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591379764272</updated>
+    </task>
+    <task id="LOCAL-00023" summary="# -*- coding: utf-8 -*-">
+      <created>1591379929815</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591379929815</updated>
+    </task>
+    <task id="LOCAL-00024" summary="# -*- coding: utf-8 -*-">
+      <created>1591380571466</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591380571467</updated>
+    </task>
+    <task id="LOCAL-00025" summary="# -*- coding: utf-8 -*-">
+      <created>1591381372133</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591381372134</updated>
+    </task>
+    <task id="LOCAL-00026" summary="pushGithub() se agrega metodo">
+      <created>1591475829927</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591475829927</updated>
+    </task>
+    <task id="LOCAL-00027" summary="pushGithub() se agrega metodo">
+      <created>1591501513037</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591501513037</updated>
+    </task>
+    <task id="LOCAL-00028" summary="pushGithub() se agrega metodo">
+      <created>1591501558388</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591501558388</updated>
+    </task>
+    <task id="LOCAL-00029" summary="pushGithub() se agrega metodo">
+      <created>1591501650506</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591501650506</updated>
+    </task>
+    <task id="LOCAL-00030" summary="pushGithub() se agrega metodo">
+      <created>1591502121198</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502121198</updated>
+    </task>
+    <task id="LOCAL-00031" summary="pushGithub() se agrega metodo">
+      <created>1591502312555</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502312555</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Cambios finales">
+      <created>1591502363261</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502363261</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Cambios finales">
+      <created>1591502382064</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502382064</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Cambios finales">
+      <created>1591502401396</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502401396</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Cambios finales">
+      <created>1591502701351</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591502701351</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Cambios finales">
+      <created>1591537991851</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1591537991851</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Cambios finales">
+      <created>1591539812087</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1591539812087</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Cambio mensaje de push a github">
+      <created>1591547112972</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1591547112972</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Try and except">
+      <created>1591620648945</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1591620648945</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Try and except">
+      <created>1591621677784</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1591621677784</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Anlisis resultados">
+      <created>1591658330494</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1591658330494</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Anlisis resultados">
+      <created>1591660510493</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1591660510493</updated>
+    </task>
+    <task id="LOCAL-00043" summary="AntHH">
+      <created>1591667540975</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1591667540975</updated>
+    </task>
+    <task id="LOCAL-00044" summary="AntHH+GWO">
+      <created>1591674864746</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1591674864746</updated>
+    </task>
+    <task id="LOCAL-00045" summary="AntHH+GWO">
+      <created>1591707129605</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1591707129605</updated>
+    </task>
+    <task id="LOCAL-00046" summary="AntHHQ+GWO">
+      <created>1591711149280</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1591711149280</updated>
+    </task>
+    <task id="LOCAL-00047" summary="AntHHQ+GWO">
+      <created>1591714042414</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1591714042414</updated>
+    </task>
+    <task id="LOCAL-00048" summary="AntHHQ+GWO">
+      <created>1591716416050</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1591716416050</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Resultados Ok">
+      <created>1592149600203</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1592149600203</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="LoboGris" />
+    <MESSAGE value="LoboGris - Parametros por cmd" />
+    <MESSAGE value="LoboGris + Qlearning" />
+    <MESSAGE value="LoboGris + Random Choice" />
+    <MESSAGE value="# -*- coding: utf-8 -*-" />
+    <MESSAGE value="pushGithub() se agrega metodo" />
+    <MESSAGE value="Cambios finales" />
+    <MESSAGE value="Cambio mensaje de push a github" />
+    <MESSAGE value="Try and except" />
+    <MESSAGE value="Anlisis resultados" />
+    <MESSAGE value="AntHH" />
+    <MESSAGE value="AntHH+GWO" />
+    <MESSAGE value="AntHHQ+GWO" />
+    <MESSAGE value="Resultados Ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resultados Ok" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="129" key="#LoboGris" timestamp="1591287339774">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="533" y="129" key="#LoboGris/0.23.1680.979@0.23.1680.979" timestamp="1591287339774" />
+    <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591288198969">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.979@0.23.1680.979" timestamp="1591288198969" />
+    <state x="550" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593966766815">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="550" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1593966766815" />
+    <state x="550" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.979@0.23.1680.979" timestamp="1592070198028" />
+    <state x="557" y="359" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1591322744758">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="557" y="359" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1680.979@0.23.1680.979" timestamp="1591322744758" />
+    <state x="248" y="117" key="CommitChangelistDialog2" timestamp="1592149597349">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="248" y="117" key="CommitChangelistDialog2/0.23.1680.979@0.23.1680.979" timestamp="1592149597349" />
+    <state width="1638" height="223" key="GridCell.Tab.0.bottom" timestamp="1591721172060">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="223" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1591721172060" />
+    <state width="1638" height="223" key="GridCell.Tab.0.center" timestamp="1591721172059">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="223" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1591721172059" />
+    <state width="1638" height="223" key="GridCell.Tab.0.left" timestamp="1591721172058">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="223" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1591721172058" />
+    <state width="1638" height="223" key="GridCell.Tab.0.right" timestamp="1591721172059">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state width="1638" height="223" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1591721172059" />
+    <state x="551" y="236" key="MultipleFileMergeDialog" timestamp="1591539846976">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="551" y="236" key="MultipleFileMergeDialog/0.23.1680.979@0.23.1680.979" timestamp="1591539846976" />
+    <state x="341" y="151" key="SettingsEditor" timestamp="1591287355483">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="341" y="151" key="SettingsEditor/0.23.1680.979@0.23.1680.979" timestamp="1591287355483" />
+    <state x="440" y="254" key="Vcs.Push.Dialog.v2" timestamp="1592149601085">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="440" y="254" key="Vcs.Push.Dialog.v2/0.23.1680.979@0.23.1680.979" timestamp="1592149601085" />
+    <state x="623" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591654021018">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="623" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.979@0.23.1680.979" timestamp="1591654021018" />
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1591655092439">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1680.979@0.23.1680.979" timestamp="1591655092439" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MagisterMHML$LoboGris.coverage" NAME="LoboGris_mscp41 Coverage Results" MODIFIED="1591296117728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MagisterMHML$getResultados.coverage" NAME="getResultados Coverage Results" MODIFIED="1591657522364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analisis" />
+    <SUITE FILE_PATH="coverage/MagisterMHML$AntHH_GWO.coverage" NAME="AntHH_GWO Coverage Results" MODIFIED="1591673611002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MagisterMHML$AntHH_GWO_SCP.coverage" NAME="AntHH_GWO_SCP Coverage Results" MODIFIED="1591719258818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MagisterMHML$AntHH.coverage" NAME="AntHH Coverage Results" MODIFIED="1591672363535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
