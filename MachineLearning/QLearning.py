@@ -5,20 +5,17 @@ import numpy as np
 class QAgent():
 
     # Initialize alpha, gamma, states, actions, rewards, and Q-values
-    def __init__(self, alpha, gamma, actions, iterMax):
+    def __init__(self, alpha, gamma, actions, state):
 
         self.gamma = gamma
         self.alpha = alpha
-        self.iterMax = iterMax
-
-
+        self.state = state
         self.actions = actions
 
         self.bestMetric = 0
-
-        self.Qvalues = np.zeros(shape=(self.iterMax,len(actions))) #state,actions
-        self.Qvalues[0] = np.random.random(size=len(actions))
-
+        self.Qvalues = np.zeros(shape=(self.state,len(self.actions))) #state,actions
+        # self.Qvalues[0] = np.random.random(size=len(actions))
+        self.Qvalues[0] = np.zeros(len(self.actions))
 
     def getReward(self,metric):
 
@@ -30,14 +27,15 @@ class QAgent():
 
         return -1
 
-
     def getAccion(self,state):
+        # if state == 0:
+        #     return self.Qvalues[0][np.random.randint(0,len(self.actions)+1)] # cota sup, es exclusiva
 
         return np.argmax(self.Qvalues[state])
 
 
     def Qnuevo(self,metric,action,state):
-        #revisar
+
         Qmax = max(self.Qvalues[state-1])
 
         R = self.getReward(metric)
